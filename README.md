@@ -1,4 +1,4 @@
-(https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-banner%20-f.png)
+[https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-banner%20-f.png]
 <h1 align="center">Hi 👋, I'm Jahid Mirza</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer.</h3>
 
