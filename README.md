@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey, I am Jahid Mirza
 #### MERN Stack Web Developer
-![MERN Stack Web Developer](https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-banner%20(1500%20x%20500%20px).png//arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![MERN Stack Web Developer](https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-banner%20(1500%20x%20500%20px)
 
 Hello, This is Jahid Mirza. I am MERN stack developer in Bangladesh. Contact Us: instagram.com/jahidmirza
 
