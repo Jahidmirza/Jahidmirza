@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/Jahidmirza) 
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Fiverr. 
-Knock me: https://linkedin.com/jahidmirzabd
+Knock me: https://linkedin.com/in/jahidmirzabd
 
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
