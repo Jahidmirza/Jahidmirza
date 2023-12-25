@@ -1,4 +1,4 @@
-![I am Jahid Mirza](https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-banner%20-f.png)
+![I am Jahid Mirza](https://github.com/Jahidmirza/Jahidmirza/blob/main/I%20will%20build%20responsive%20wordpress%20website%20(2).png)
 
 
 <h1 align="center">Hi 👋, I'm Jahid Mirza</h1>
