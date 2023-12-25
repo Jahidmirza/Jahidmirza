@@ -1,4 +1,4 @@
-<p align="center">(https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-Banner.png)(/p)
+![I am Jahid Mirza](https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Jahid Mirza</h1>
 <h3 align="center"> Website Developer - Wordpress, Woocommerce, Shopify, SEO </h3>
