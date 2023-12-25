@@ -1,8 +1,7 @@
-![I am Jahid Mirza](https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-Banner.png)
+![I am Jahid Mirza](https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-Banner%20Main.png)
 
 <h1 align="center">Hi 👋, I'm Jahid Mirza</h1>
 <h3 align="center"> Website Developer - Wordpress, Woocommerce, Shopify, SEO </h3>
-
 
 
 Welcome to my GitHub profile. I am a professional WordPress Website Developer having 6 years of experience in developing eCommerce and Dynamic Websites with WordPress, WooCommerce, Elementor, Gutenberg, Gutenberg by Kadence Blocks, WPBakery, Visual Composer, HTML, CSS at Fivver, and UpWork.
