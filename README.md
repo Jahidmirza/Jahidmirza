@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jahid Mirza</h1>
 <h3 align="center"> Website Developer - Wordpress, Woocommerce, Shopify, SEO </h3>
 
-![Profile views](https://github-readme-stats.vercel.app/api?username=Jahidmirza)](https://github.com/Jahidmirza/readme-components-github)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahidmirza)](https://github.com/Jahidmirza/readme-components-github)
 
 Welcome to my GitHub profile. I am a professional WordPress Website Developer having 6 years of experience in developing eCommerce and Dynamic Websites with WordPress, WooCommerce, Elementor, Gutenberg, Gutenberg by Kadence Blocks, WPBakery, Visual Composer, HTML, CSS at Fivver, and UpWork.
 If Need Any Help Plz Knock me in Linkedin : [Linkedin](https://linkedin.com/in/jahidmirzabd)
