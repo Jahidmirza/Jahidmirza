@@ -2,22 +2,23 @@
 
 
 <h1 align="center">Hi 👋, I'm Jahid Mirza</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer</h3>
+<h3 align="center"> Website Developer - Wordpress, Woocommerce, Shopify, SEO </h3>
 
 ![Profile views](https://gpvc.arturio.dev/Jahidmirza) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Fiverr. 
-Knock me: https://linkedin.com/in/jahidmirzabd
+Welcome to my GitHub profile. I am a professional WordPress Website Developer having 6 years of experience in developing eCommerce and Dynamic Websites with WordPress, WooCommerce, Elementor, Gutenberg, Gutenberg by Kadence Blocks, WPBakery, Visual Composer, HTML, CSS at 
+Fiverr Knock me: https://linkedin.com/in/jahidmirzabd  Or
+UpWork Knock me: https://www.upwork.com/freelancers/~01a985527789a8e21b
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills: WordPress / WordPress Plugin / WordPress Theme / SEO-Based Website / Ecommerce Website Development / Payment Gateway Integration / WooCommerce / Elementor / Landing Page / HTML / CSS / Theme Customization / Search Engine Optimization / Blog Content / Yoast SEO.
  
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/jahidmirzabd)
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/jahidmirzabd) or [UpWork](https://www.upwork.com/freelancers/~01a985527789a8e21b)
 
 - 🌱 I’m currently learning **JS, Python, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jahidmirza](https://github.com/Jahidmirza)
-- 👨‍💻 All of my projects are available at [http://webmirza.cf/](http://webmirza.cf/)
+- 👨‍💻 All of my projects are available at [http://jahidcv.unaux.com](http://jahidcv.unaux.com/)
 
 - 📝 I regularly write articles on [https://jahidmirza.github.io/jahidmirzabdweb/](https://jahidmirza.github.io/jahidmirzabdweb/)
 
