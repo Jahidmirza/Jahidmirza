@@ -6,9 +6,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/Jahidmirza) 
 
-Welcome to my GitHub profile. I am a professional WordPress Website Developer having 6 years of experience in developing eCommerce and Dynamic Websites with WordPress, WooCommerce, Elementor, Gutenberg, Gutenberg by Kadence Blocks, WPBakery, Visual Composer, HTML, CSS at 
-Fiverr Knock me: https://linkedin.com/in/jahidmirzabd  Or
-UpWork Knock me: https://www.upwork.com/freelancers/~01a985527789a8e21b
+Welcome to my GitHub profile. I am a professional WordPress Website Developer having 6 years of experience in developing eCommerce and Dynamic Websites with WordPress, WooCommerce, Elementor, Gutenberg, Gutenberg by Kadence Blocks, WPBakery, Visual Composer, HTML, CSS at Fivver, and UpWork.
+If Need Any Help Plz Knock me in Linkedin : [Linkedin](https://linkedin.com/in/jahidmirzabd)
 
 Skills: WordPress / WordPress Plugin / WordPress Theme / SEO-Based Website / Ecommerce Website Development / Payment Gateway Integration / WooCommerce / Elementor / Landing Page / HTML / CSS / Theme Customization / Search Engine Optimization / Blog Content / Yoast SEO.
  
@@ -20,7 +19,7 @@ Skills: WordPress / WordPress Plugin / WordPress Theme / SEO-Based Website / Eco
 - 👨‍💻 All of my projects are available at [https://github.com/Jahidmirza](https://github.com/Jahidmirza)
 - 👨‍💻 All of my projects are available at [http://jahidcv.unaux.com](http://jahidcv.unaux.com/)
 
-- 📝 I regularly write articles on [https://jahidmirza.github.io/jahidmirzabdweb/](https://jahidmirza.github.io/jahidmirzabdweb/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/jahidmirzabd/articles/](https://www.linkedin.com/in/jahidmirzabd/articles/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
@@ -43,6 +42,7 @@ Skills: WordPress / WordPress Plugin / WordPress Theme / SEO-Based Website / Eco
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+ [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-F0DB4F?style=for-the-badge&labelColor=black&logo=Wordpress&logoColor=F0DB4F-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
