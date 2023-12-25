@@ -1,5 +1,4 @@
-![<h1 align="center"> I am Jahid Mirza </h1>](https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-Banner.png)
-
+![<p align="center"> I am Jahid Mirza </h1>](https://github.com/Jahidmirza/Jahidmirza/blob/main/Github-Banner.png)(/p)
 
 <h1 align="center">Hi 👋, I'm Jahid Mirza</h1>
 <h3 align="center"> Website Developer - Wordpress, Woocommerce, Shopify, SEO </h3>
